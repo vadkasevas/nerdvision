@@ -1,6 +1,6 @@
 const {nerdvision} = require('@nerdvision/agent')
 var i = 0;
-nerdvision.init('ad4220d8e6812e8df2eafd7805ba33aa3ba785e5582b93a4915d28ba62106eed307bed7435969742d2f3c1395120c3ea21f98111ce5c223dde34629551c81e3c')
+nerdvision.init('804026a8c624b17f9f32773856de36cf81307e80f86e24fd7e4423ccd5b25e6f523ff6838c78af2e7cd3ba9fb6ec7f1981256a5ca37a7c994eb6c84e829c1b2b')
 setInterval(()=>{
     console.log(new Date(),i);
 },1000);
