@@ -1,0 +1,14 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "nerdvision api test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nerdvision/agent": "^1.1.0"
+  }
+}
